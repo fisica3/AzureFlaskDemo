@@ -1,0 +1,8 @@
+C:\Users\Youngjae\Documents\AzureFlaskDemo\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Youngjae\Documents\AzureFlaskDemo\bin\AzureSetup.cfg
+C:\Users\Youngjae\Documents\AzureFlaskDemo\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Youngjae\Documents\AzureFlaskDemo\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Youngjae\Documents\AzureFlaskDemo\bin\wfastcgi.py
+C:\Users\Youngjae\Documents\AzureFlaskDemo\ptvs_virtualenv_proxy.py
+C:\Users\Youngjae\Documents\AzureFlaskDemo\obj\Release\web.debug.config
+C:\Users\Youngjae\Documents\AzureFlaskDemo\obj\Release\deployment-updated-pyvenv.cfg
