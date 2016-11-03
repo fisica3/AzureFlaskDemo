@@ -6,7 +6,8 @@ from os import environ
 from FlaskWebProject1 import app
 
 # Make the WSGI interface available at the top level so wfastcgi can get it.
-wsgi_app = app.wsgi_app
+# Whether or not run below line, shows same interpreter not found error.
+# wsgi_app = app.wsgi_app
 
 
 if __name__ == '__main__':
