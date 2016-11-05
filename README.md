@@ -4,7 +4,7 @@ A vanilla Flask app for Azure WebApp publishing.
 
 It follows Azure recommendation setup using Extension and `web.config` FastCGI setup.
 
-Currently this demo works best with **Python 3.5.1** and does not work with `3.5.2`.
+Currently this demo works best with **Python 3.5.1** and does not work with `3.5.2`. [see discussion](https://github.com/Microsoft/PTVS/issues/1791)
 
 # Installation Steps
 
@@ -20,6 +20,5 @@ Currently this demo works best with **Python 3.5.1** and does not work with `3.5
 1. In WebApp, open url in **Overview**.
 
 # Reference
-- Discussion about 3.5.2 not working: https://github.com/Microsoft/PTVS/issues/1791
 - Azure WebApp+Python recommendation: https://blogs.msdn.microsoft.com/pythonengineering/2016/08/04/upgrading-python-on-azure-app-service/
 
