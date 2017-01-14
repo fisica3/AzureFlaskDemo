@@ -22,3 +22,4 @@ Currently this demo works best with **Python 3.5.1** and does not work with `3.5
 # Reference
 - Azure WebApp+Python recommendation: https://blogs.msdn.microsoft.com/pythonengineering/2016/08/04/upgrading-python-on-azure-app-service/
 
+END.
